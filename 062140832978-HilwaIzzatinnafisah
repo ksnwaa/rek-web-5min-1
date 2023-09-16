@@ -1,0 +1,43 @@
+PHP 7
+php 7 dirilis pada tanggal 3 desember 2015
+Kelebihan:
+- Memiliki performa lebih bagus dibanding versi sebelumnya 
+- Didalam PHP 7 terdapat modul module bernama Opcache yang befungsi untuk meningkatkan performa dilakukan dengan cara melakukan cache skrip website ke memory
+- Mudah dipelajari
+- Perkembangan produk dengan cepat
+- Program yang ringkas
+- Program yang Open Source
+- Proses Upgrade yang mudah
+
+Kelebihan:
+- Mudah di tiru orang lain
+- Persaingannya ketat
+
+
+PHP 8
+PHP 8 dirilis pada tanggal 26 November 2020
+Kelebihan:
+- meningkatnya fitur canggih dan peningkatan bahasa yang tepat 
+- php 8 memperkenalkan Just In Time ( JIT) 
+- Peningkatan Eksistensi
+- memudahkan perbandingan nilai dengan sintaksis yang lebih ringkas
+
+Kekurangan:
+-Kompatibilitas Kode lama
+- Memerlukan Versi server yang  mendukung
+- Beberapa pustaka belum sepenuhnya mendukung
+
+
+PHP 8.1 
+PHP 8.1 dirilis pada tanggal 25 November 2021
+Kelebihan:
+- Performa lebih cepat
+- Dukungan Just In Time (JIT) lebih baik 
+
+PHP 8.2
+PHP 8.2 dirilis pada tanggal 24 November 2022
+Kelebihan :
+- menghadirkan peningkatan sistem tipe untuk keamanan tipe yang terperinci
+- mendukung tipe Disjoint Normal Form (DNF)
+
+PHP yang masih terbaru dan stabil digunakan pada saat ini adalah versi 8
